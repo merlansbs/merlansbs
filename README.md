@@ -7,21 +7,16 @@
 **Salon · Boutique · Med Spa: under one roof in Englewood, Colorado.**
 *We make you look and feel good.*
 
-[Website](https://merlansbs.com) · [Book now](https://www.vagaro.com/merlansalonboutiqueandspa) · [Instagram](https://www.instagram.com/merlansbs/) · [Facebook](https://www.facebook.com/merlansbs/)
+[Website](https://merlansbs.com) · [Book now](https://www.vagaro.com/merlansalonboutiqueandspa)
 
 </div>
 
 ## What we do
 
-- **Hair salon**: color, balayage, hand-tied extensions, cuts, barbering, bridal. A Paul Mitchell Focus Salon.
-- **Med spa**: hormone therapy, peptides, CoolSculpting, Botox and fillers, by consultation.
-- **Boutique**: professional hair care and wellness products.
+- **Hair salon**: cuts, color, hand-tied extensions and barbering.
+- **Med spa**: hormone therapy, peptide therapy, CoolSculpting, and Botox and fillers. Consultations are available for every medical service.
+- **Boutique**: professional hair care products.
 
 ## Visit
 
-📍 4743 S Broadway, Englewood, CO 80113
-📞 [720-379-4509](tel:+17203794509)
-
-## On GitHub
-
-This account holds Merlan's own tools: booking and analytics integrations, AI assistants, and the website's source of truth.
+Serving Englewood, Colorado. Book online through [Vagaro](https://www.vagaro.com/merlansalonboutiqueandspa) or learn more at [merlansbs.com](https://merlansbs.com).
